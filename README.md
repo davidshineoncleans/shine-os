@@ -35,7 +35,7 @@ Those are optional layers you can add later. This works out of the box.
 ## Quick Install
 
 ```bash
-git clone https://github.com/davidcaldicott/shine-agent-mesh
+git clone https://github.com/davidshineoncleans/shine-agent-mesh
 ```
 
 Then follow `Setup/01_QUICK_START.md`.
