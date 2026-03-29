@@ -1,31 +1,36 @@
 # SHINE OS
 
+Parent: [[codebase-map]]
+Architecture: [[shine-agent-mesh-architecture|Full Architecture Docs]]
+Related: [[architecture|ClientChat]] · [[atlasdelivery-architecture|Atlas]] · [[glow-architecture|Glow]] · [[span-architecture|Span]]
+
 **An AI operating system for your business. Works with any AI. Free. No catch.**
 
 Built by [David Caldicott](https://shineon.world) — founder of Shine On Cleans, where this system runs a live business every day.
 
 ---
 
-## 👋 Start here.
+## 🚀 Install
 
-Download this folder. Open your AI. Say:
+One command. That's it.
 
-> **"I've just downloaded SHINE OS. Let's get set up."**
+```bash
+curl -fsSL https://shineon.world/install.sh | bash
+```
 
-Your AI reads `CLAUDE.md`, understands the system, and walks you through a 10-minute setup. When you're done, you've got a named squad of AI agents, a task tracker, session reports, and something you can actually use today.
+It clones the repo, asks 4 quick questions, customises your workspace, and Donna — our AI receptionist — calls you within 60 seconds to welcome you.
 
 ---
 
-## Works With Any AI
+## Three Ways In
 
-| Platform | How it works |
-|----------|-------------|
-| **Claude Cowork** | Best experience — select this folder as your workspace, start talking. `CLAUDE.md` loads automatically. |
-| **ChatGPT / Gemini / any AI** | Copy the contents of `CLAUDE.md` and paste it as your first message each session. Or use Custom Instructions to load it permanently. |
-| **Obsidian + any AI** | Open this folder as an Obsidian vault. The wiki-links work natively. Copy context into your AI when you need it. |
-| **Google Drive + any AI** | Upload the files to a Drive folder. Reference them when working with your AI. How this system was originally built. |
+| Route | Who it's for | What happens |
+|-------|-------------|-------------|
+| **Terminal install** (above) | Anyone comfortable pasting one command | Interactive setup, welcome call, workspace customised automatically |
+| **Claude Cowork** | Claude Pro/Max users | Select the folder as your workspace, say *"I've just installed SHINE OS. Let's get set up."* |
+| **Manual download** | Everyone else | Download ZIP, open `CLAUDE.md`, copy it into any AI (ChatGPT, Gemini, Obsidian, Google Drive) |
 
-The AI is the reader. The files are the system.
+The AI doesn't matter. The files are the system. Use whatever you've got.
 
 ---
 
@@ -68,17 +73,21 @@ Start with shine-os. Add the rest when you hit the ceiling.
 
 ---
 
-## Quick Install
+## Install Options
 
-**Option A — Download ZIP** (easiest)
+**Recommended — one command:**
 
-Click the green **Code** button above → **Download ZIP** → unzip → open your AI → paste the contents of `CLAUDE.md` or select the folder in Cowork → say "I've just downloaded SHINE OS. Let's get set up."
+```bash
+curl -fsSL https://shineon.world/install.sh | bash
+```
 
-**Option B — Git clone**
+**Or clone it yourself:**
 
 ```bash
 git clone https://github.com/davidshineoncleans/shine-os
 ```
+
+**Or just download the ZIP** — click the green Code button above → Download ZIP → unzip → start using.
 
 ---
 
