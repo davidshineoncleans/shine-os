@@ -90,6 +90,8 @@ shine-os/
 ├── TASKS.md               ← Single source of truth for work in progress
 ├── INDEX.md               ← Directory map
 │
+│── ─── TIER 1: shine-os (works now) ───
+│
 ├── Agents/                ← Agent prompt templates for each role
 │   ├── service-advisor/   ← Customer-facing: quotes, enquiries, calls
 │   ├── ops-captain/       ← Strategic brain: pipeline, dispatch, decisions
@@ -99,12 +101,21 @@ shine-os/
 │
 ├── Memory/                ← Your glossary, branding, and business reference
 ├── Ops/                   ← Your operational docs (pricing, pipelines, etc.)
-├── Dev/                   ← Technical assets when you're ready
+├── Dev/                   ← Technical assets and build notes
 ├── Reports/               ← Session reports (auto-named by date)
+├── Setup/                 ← Quick start and stack setup guides
 │
-└── Setup/
-    ├── 01_QUICK_START.md  ← Up and running in 10 minutes
-    └── 02_ADD_YOUR_STACK.md ← n8n, Supabase, Retell when you're ready
+│── ─── TIER 2: shine-activated (coming soon — git pull) ───
+│
+├── Stack/                 ← Infrastructure install
+│   ├── n8n-workflows/     ← Importable workflow JSON files
+│   ├── supabase/          ← SQL migrations and table schemas
+│   └── retell/            ← Voice agent configs and prompts
+│
+│── ─── TIER 3: shine-integrated (coming soon — git pull) ───
+│
+└── Platform/              ← Managed platform connection
+    └── README.md          ← What's coming + how to register interest
 ```
 
 ---
