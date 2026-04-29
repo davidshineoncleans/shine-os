@@ -4,6 +4,11 @@
 
 Built by [David Caldicott](https://shineon.world).
 
+**THIS SYSTEM IS CURRENTLY DISABLED - It will be reactivated soon.**
+
+**You should still be able to use most of it, but communication from Donna etc and the one command install will not trigger until we reactivate. Thanks for your patience**
+
+
 ---
 
 ## 🚀 Install
