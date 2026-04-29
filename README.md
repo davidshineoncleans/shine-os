@@ -2,7 +2,7 @@
 
 **An AI operating system for your business. Works with any AI. Free. No catch.**
 
-Built by [David Caldicott](https://shineon.world) — founder of Shine On Cleans, where this system runs a live business every day.
+Built by [David Caldicott](https://shineon.world).
 
 ---
 
