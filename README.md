@@ -166,7 +166,7 @@ I'm releasing the framework because the problem is universal. Every founder with
 ### HumanCode
 My easy-to-learn encoding system for saving my own brainpower, as well as my Ai tokens. Up to 75% compression but still readable to an untrained eye; with just a little concentration. 
 
-Learn more here: [davidcaldicott.online/projects/humancode](https://www.davidcaldicott.online/projects/humancode)
+Learn more here: [davidcaldicott.online/projects/humancode](http://www.davidcaldicott.online/projects/humancode)
 
 ---
 
