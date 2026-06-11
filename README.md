@@ -6,6 +6,8 @@ Built by [David Caldicott](https://shineon.world).
 
 **THIS SYSTEM IS CURRENTLY DISABLED - It will be reactivated soon.**
 
+**Join the waiting list: [here](https://davidcaldicott.online/contact).**
+
 **You should still be able to use most of it, but communication from Donna etc and the one command install will not trigger until we reactivate. Thanks for your patience**
 
 
